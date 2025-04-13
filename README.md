@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently build a: **React.js CRUD app**
+- 🔭 I currently build a: **React.js CRUD app**
 - 🌱 I’m learning: **React.js**, **Tailwind CSS**,**BootStrap CSS**, **C#**, **ASP.NET Core**, and **REST API integration**
 - 👯 I’m open to collaborate on: **Frontend apps**, **.NET/C# backend projects**, and **Full Stack web apps**
 - 💬 Ask me about:  
