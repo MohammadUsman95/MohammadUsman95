@@ -1,14 +1,14 @@
-### 👋 Hi there, I'm Mohammad Usman
+Hi there, I'm Mohammad Usman
 
-🌐 A passionate **Web Developer** working with **React.js** and diving into **.NET/C# backend development**.
+A passionate **Web Developer** working with **React.js** and diving into **.NET/C# backend development**.
 
 ---
 
-### 🚀 About Me
-- 🔭 I currently build a: **React.js CRUD app**
-- 🌱 I’m learning: **React.js**, **Tailwind CSS**,**BootStrap CSS**, **C#**, **ASP.NET Core**, and **REST API integration**
-- 👯 I’m open to collaborate on: **Frontend apps**, **.NET/C# backend projects**, and **Full Stack web apps**
-- 💬 Ask me about:  
+## About Me
+-  I currently build a: **React.js CRUD app**
+-  I’m learning: **React.js**, **Tailwind CSS**,**BootStrap CSS**, **C#**, **ASP.NET Core**, and **REST API integration**
+-  I’m open to collaborate on: **Frontend apps**, **.NET/C# backend projects**, and **Full Stack web apps**
+-  Ask me about:  
   **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**, **C#**, **.NET Core**
 - 📫 How to reach me:  
   📱 +923002888559  
@@ -16,16 +16,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML, CSS, JavaScript
 - Bootstrap, Tailwind CSS
 - React.js (currently build a CRUD app)
-
-**Backend**
-- C#, ASP.NET Core (in progress)
-- RESTful APIs
 
 **Tools**
 - Git & GitHub
