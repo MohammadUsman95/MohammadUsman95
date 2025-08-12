@@ -1,15 +1,32 @@
-Hi there, I'm Mohammad Usman
+👋 About Me
+Hi, I’m Mohammad Usman – an ASP.NET Core fullStack Developer and Enthusiast with over 5 years of experience in banking operations, AML, KYC, and audits. Recently, I’ve been diving deep into modern web development, building secure APIs and scalable applications.
 
-A passionate **Web Developer** working with **React.js** and diving into **.NET/C# backend development**.
+💻 Tech Focus
 
----
+ASP.NET Core 8 with Identity & JWT Authentication
 
-## About Me
--  I currently build a: **React.js CRUD app**
--  I’m learning: **React.js**, **Tailwind CSS**,**BootStrap CSS**, **C#**, **ASP.NET Core**, and **REST API integration**
--  I’m open to collaborate on: **Frontend apps**, **.NET/C# backend projects**, and **Full Stack web apps**
--  Ask me about:  
-  **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **React**, **C#**, **.NET Core**
+Role, Claim & Policy-based Authorization
+
+Secure API Development & Middleware Configuration
+
+MERN Stack (MongoDB, Express, React, Node.js)
+
+🚀 Recent Project
+Developed a Secure ASP.NET Core 8 API with:
+
+User Signup & Login
+
+JWT-based Authentication & Authorization
+
+Role, Claim, and Policy-based Access Control
+
+Organized Program.cs & Web API Endpoints for Scalability
+
+🌱 Currently Learning
+
+Advanced .NET & Cloud Deployment
+
+Building Portfolio Projects
 - 📫 How to reach me:  
   📱 +923002888559  
   📧 [usmanburrio3@gmail.com](mailto:usmanburrio3@gmail.com)
@@ -21,8 +38,7 @@ A passionate **Web Developer** working with **React.js** and diving into **.NET/
 **Frontend**
 - HTML, CSS, JavaScript
 - Bootstrap, Tailwind CSS
-- React.js (currently build a CRUD app)
-
+- Angular
 **Tools**
 - Git & GitHub
 - Visual Studio, VS Code
