@@ -1,57 +1,54 @@
-👋 About Me
-Hi, I’m Mohammad Usman – an ASP.NET Core fullStack Developer and Enthusiast with over 5 years of experience in banking operations, AML, KYC, and audits. Recently, I’ve been diving deep into modern web development, building secure APIs and scalable applications.
+🔹 Tech Focus
 
-💻 Tech Focus
+ASP.NET Core 8/9 MVC & Web API
 
-ASP.NET Core 8 with Identity & JWT Authentication
+Identity & JWT Authentication
 
 Role, Claim & Policy-based Authorization
+
+Entity Framework Core (Code First & Database First)
 
 Secure API Development & Middleware Configuration
 
 MERN Stack (MongoDB, Express, React, Node.js)
 
-🚀 Recent Project
-Developed a Secure ASP.NET Core 8 API with:
+SQL Server, LINQ & EF Core Queries
+
+🚀 Recent Projects
+
+ASP.NET Core 9 MVC CRUD Application (Database First)
+
+Full Create, Read, Update, Delete operations
+
+EF Core Database First with SQL Server
+
+Clean MVC layered architecture
+
+Secure ASP.NET Core 8 API
 
 User Signup & Login
 
 JWT-based Authentication & Authorization
 
-Role, Claim, and Policy-based Access Control
+Role/Claim/Policy-based Access Control
 
-Organized Program.cs & Web API Endpoints for Scalability
+Organized Program.cs & Scalable Endpoints
 
 🌱 Currently Learning
 
-Advanced .NET & Cloud Deployment
+Advanced .NET & Cloud Deployment (Azure)
 
-Building Portfolio Projects
-- 📫 How to reach me:  
-  📱 +923002888559  
-  📧 [usmanburrio3@gmail.com](mailto:usmanburrio3@gmail.com)
+Microservices Architecture
 
----
+Building Portfolio Projects with .NET Core + Angular
 
-## Tech Stack
+📫 How to Reach Me
 
-**Frontend**
-- HTML, CSS, JavaScript
-- Bootstrap, Tailwind CSS
-- Angular
-**Tools**
-- Git & GitHub
-- Visual Studio, VS Code
-- Postman, SQL Server
+📞 +923430307131
 
----
+📧 usmanburrio3@gmail.com
 
+🌐 LinkedIn: https://www.linkedin.com/in/mohammad-usman-buriro
+ | Upwork: https://www.upwork.com/freelancers/~01e17cbad25b28d178
 
-### 📈 GitHub Stats
-![GitHub Stats] https://github.com/MohammadUsman95/MohammadUsman95/edit/main/README.md
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/mohammad-usman-buriro
-
-
+✨ Always open to collaboration, freelance opportunities, and contributing to open-source .NET projects.
