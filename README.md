@@ -1,47 +1,6 @@
-🔹 Tech Focus
-
-ASP.NET Core 8/9 MVC & Web API
-
-Identity & JWT Authentication
-
-Role, Claim & Policy-based Authorization
-
-Entity Framework Core (Code First & Database First)
-
-Secure API Development & Middleware Configuration
-
-MERN Stack (MongoDB, Express, React, Node.js)
-
-SQL Server, LINQ & EF Core Queries
-
-🚀 Recent Projects
-
-ASP.NET Core 9 MVC CRUD Application (Database First)
-
-Full Create, Read, Update, Delete operations
-
-EF Core Database First with SQL Server
-
-Clean MVC layered architecture
-
-Secure ASP.NET Core 8 API
-
-User Signup & Login
-
-JWT-based Authentication & Authorization
-
-Role/Claim/Policy-based Access Control
-
-Organized Program.cs & Scalable Endpoints
-
-🌱 Currently Learning
-
-Advanced .NET & Cloud Deployment (Azure)
-
-Microservices Architecture
-
-Building Portfolio Projects with .NET Core + Angular
-
+I’m a .NET Developer with experience building ASP.NET MVC and Web API solutions, working with SQL Server, and implementing secure authentication & identity management. Recently, I completed an Azure Administrator prep course, expanding my skills in cloud infrastructure and Microsoft Azure management.”
+Let’s Connect:
+Always open to connecting with developers, recruiters, and tech professionals.
 📫 How to Reach Me
 
 📞 +923430307131
